@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../java"
+		},
+		{
+			"path": "../webd"
+		},
+		{
+			"path": "../my dsa"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webd"
+	}
+}
